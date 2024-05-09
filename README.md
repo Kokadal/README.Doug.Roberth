@@ -15,7 +15,12 @@ Logo, Percebi que esse era o momento certo para abraçar o que realmente me dá 
 
 ## 💻 Breve apresentação
 
+## Versão 1.0
 Bom, ainda sou novato, então, não esperem grandes coisas, porem, garanto que isso sera passageiro. Volte aqui daqui a alguns dias, garanto que as coisas serão bem diferentes por aqui 😉
+
+## Versão 2.0
+Olha só, agora temos alguns projetos para desfrutar. Basicos, mas já iniciamos bem. O que esperar da versão 3.0 ?
+Sugiro aguardar e surpreender-se 😁
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kokadal&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
@@ -26,9 +31,6 @@ Bom, ainda sou novato, então, não esperem grandes coisas, porem, garanto que i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-oliveira-roberto-1a80672b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/doug.roberth/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kokadal)
-
 
 ## Obrigado turma, até breve 
 
